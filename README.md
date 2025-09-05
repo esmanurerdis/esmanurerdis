@@ -14,18 +14,32 @@ I am Esmanur Erdiş
 ---
 
 ## 🛠️ Skills
-**Languages & Data:** Python 🐍 | SQL (PostgreSQL, MySQL) | NumPy | pandas  
-**Machine Learning:** scikit-learn | XGBoost | Feature Engineering | Model Evaluation  
-**Deep Learning & NLP:** Hugging Face 🤗 | OpenAI API | RouteLLM | Sentiment Analysis  
+**Programming & Data:** Python 🐍 | SQL (PostgreSQL, MySQL) | NumPy | pandas  
+**Machine Learning:** scikit-learn | XGBoost | Linear Regression | Feature Engineering | Model Evaluation (K-Fold, GridSearchCV)  
+**Deep Learning & NLP:** Hugging Face 🤗 | OpenAI API | RouteLLM | Sentiment Analysis | Text Classification | BLEU/ROUGE  
 **Visualization & Tools:** Matplotlib | Seaborn | Plotly | Tkinter | Gradio  
-**Other:** Git/GitHub | Docker 🐳 | Airflow (beginner)  
+**Other:** Git/GitHub | Docker 🐳 (basic) | Airflow (beginner)  
+**Mathematics:** Linear Algebra | Probability | Statistics | Calculus  
+**Languages:** Turkish (Native) | English (Professional) | Chinese (Intermediate)
+
 
 ---
-
 ## 📂 Projects
-🔹 [PJME Hourly Energy Forecasting](https://github.com/esmanurerdis/pjme-energy-forecasting) – R²=0.99, MAPE=1.08%  
-🔹 [DailyMoodAI](https://github.com/esmanurerdis/dailymoodai) – Multilingual chatbot, 85%+ accuracy, 30% cost reduction  
-🔹 [Taxicab Geometry Visualizer](https://github.com/esmanurerdis/taxicab-geometry) – Tkinter + Matplotlib educational tool  
+Here are some of my key projects:  
+
+- [PJME Hourly Energy Forecasting](https://github.com/esmanurerdis/pjme-energy-forecasting)  
+  Hourly energy demand model (350k+ rows) using Python, scikit-learn, XGBoost.  
+  Achieved R²=0.99, MAPE=1.08%, results visualized with Plotly.  
+
+- [DailyMoodAI – Multilingual Sentiment Chatbot](https://github.com/esmanurerdis/dailymoodai)  
+  Flask/Gradio chatbot with OpenAI API & Hugging Face for multilingual sentiment analysis.  
+  RouteLLM reduced cost by 30%, achieving 85%+ accuracy across 5 languages.  
+
+- [Taxicab Geometry Visualizer](https://github.com/esmanurerdis/taxicab-geometry)  
+  Interactive Tkinter app to visualize taxicab circles & triangles with Matplotlib.  
+  20+ parameterized visualizations for educational use.
+
+
 
 ---
 
