@@ -14,32 +14,38 @@ I am Esmanur Erdiş
 ---
 
 ## 🛠️ Skills
-**Programming & Data:** Python 🐍 | SQL (PostgreSQL, MySQL) | NumPy | pandas  
-**Machine Learning:** scikit-learn | XGBoost | Linear Regression | Feature Engineering | Model Evaluation (K-Fold, GridSearchCV)  
-**Deep Learning & NLP:** Hugging Face 🤗 | OpenAI API | RouteLLM | Sentiment Analysis | Text Classification | BLEU/ROUGE  
-**Visualization & Tools:** Matplotlib | Seaborn | Plotly | Tkinter | Gradio  
-**Other:** Git/GitHub | Docker 🐳 (basic) | Airflow (beginner)  
-**Mathematics:** Linear Algebra | Probability | Statistics | Calculus  
-**Languages:** Turkish (Native) | English (Professional) | Chinese (Intermediate)
+Programming & Data: Python 🐍 | SQL (PostgreSQL, MySQL) | NumPy | Pandas
+Machine Learning: scikit-learn | XGBoost | Regression & Classification | Feature Engineering | Model Evaluation (K-Fold, GridSearchCV)
+Deep Learning & NLP: Hugging Face 🤗 | Transformers | OpenAI API | RouteLLM | Sentiment Analysis | Text Classification | BLEU/ROUGE
+Visualization & Tools: Matplotlib | Seaborn | Plotly | Tkinter | Gradio
+Other: Git/GitHub | Docker 🐳 (containerization basics) | Airflow (workflow automation)
+Mathematics: Linear Algebra | Probability | Statistics | Calculus | Optimization
+Languages: Turkish (Native) | English (Professional) | Chinese (Intermediate)
 
 
 ---
 ## 📂 Projects
-Here are some of my key projects:  
+Here are some of my key projects:
 
-- [PJME Hourly Energy Forecasting](https://github.com/esmanurerdis/pjme-energy-forecasting)  
-  Hourly energy demand model (350k+ rows) using Python, scikit-learn, XGBoost.  
-  Achieved R²=0.99, MAPE=1.08%, results visualized with Plotly.  
+PJME Hourly Energy Forecasting
 
-- [DailyMoodAI – Multilingual Sentiment Chatbot](https://github.com/esmanurerdis/dailymoodai)  
-  Flask/Gradio chatbot with OpenAI API & Hugging Face for multilingual sentiment analysis.  
-  RouteLLM reduced cost by 30%, achieving 85%+ accuracy across 5 languages.  
+Hourly energy demand model (350k+ rows) using Python, scikit-learn, XGBoost.
+Achieved R²=0.99, MAPE=1.08%, results visualized with Plotly.
 
-- [Taxicab Geometry Visualizer](https://github.com/esmanurerdis/taxicab-geometry)  
-  Interactive Tkinter app to visualize taxicab circles & triangles with Matplotlib.  
-  20+ parameterized visualizations for educational use.
+DailyMoodAI – Multilingual Sentiment Chatbot
 
+Flask/Gradio chatbot with OpenAI API & Hugging Face for multilingual sentiment analysis.
+RouteLLM reduced cost by 30%, achieving 85%+ accuracy across 5 languages.
 
+Product Image Classifier
+
+Computer vision project using MobileNetV2 fine-tuning.
+Includes model evaluation (confusion matrix), metrics, and GUI (Tkinter vs Gradio).
+
+Sentiment Analysis Pipeline (Turkish Reviews)
+
+End-to-end NLP pipeline for Turkish product reviews with TF-IDF + Logistic Regression.
+Preprocessing, training, evaluation, and inference implemented from scratch.
 
 ---
 
