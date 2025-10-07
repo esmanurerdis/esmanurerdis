@@ -1,17 +1,32 @@
-## Hi there 👋
-I am Esmanur Erdiş  
+# 👋 Hi, I'm Esmanur Erdiş
 
-# 🎓 ** AI & Data Science ** | BSc in Mathematics and Computer Science
-🌍 Based in Eskişehir, Turkey  
+# 💻 AI & Data Science | NLP & Machine Learning | 🎓 BSc in Mathematics and Computer Science
+# 🚀 Turning data into intelligent, multilingual, and impactful AI solutions
+# 🌍 Based in Eskişehir, Turkey  
+
+---
+
+## 🧠 About Me
+- I'm passionate about building intelligent systems using Machine Learning, NLP, and Data Analysis.
+- I focus on developing AI models that analyze language, predict outcomes, and automate processes — combining strong analytical thinking with hands-on technical execution.
+- I enjoy exploring new AI technologies, from large language models to time-series forecasting and computer vision.
 
 ---
 
-## 🔹 About Me
-• Bachelor’s degree in **Mathematics & Computer Science** (Eskişehir Osmangazi University)  
-• Hands-on experience with **OpenAI API, Hugging Face, LLMs, NLP**  
-• Eager to contribute to **AI, Data Science, and NLP-driven projects**  
+
+## 🔍 Focus Areas
+
+- Natural Language Processing (Sentiment Analysis, Text Classification, Translation)
+
+- Machine Learning (Regression, Forecasting, Feature Engineering, Model Evaluation)
+
+- LLM Applications (Prompt Engineering, Fine-tuning, Cost Optimization, RAG – learning)
+
+-Data Visualization & Storytelling
+
 
 ---
+
 
 ## 🛠️ Skills
 • Programming & Data: Python 🐍 | SQL (PostgreSQL, MySQL) | NumPy | Pandas
@@ -24,37 +39,26 @@ I am Esmanur Erdiş
 
 
 ---
-## 📂 Projects
 
-Here are some of my key projects:
 
-### PJME Hourly Energy Forecasting
+## 🚀 Featured Projects
 
-• Hourly energy demand model (350k+ rows) using Python, scikit-learn, XGBoost.
-• Achieved R²=0.99, MAPE=1.08%, results visualized with Plotly.
+- 📊 PJME Energy Forecasting – Time-series forecasting using XGBoost & Linear Regression (R²=0.99, MAPE=1.08%).
+- 💬 DailyMoodAI – Multilingual mood & advice assistant using Hugging Face MarianMT & OpenAI API; supports 5+ languages.
+- 🧠 Sentiment Analysis Pipeline – NLP pipeline for Turkish product reviews using TF-IDF + Logistic Regression (F1=0.70).
+- 🖼️ Product Image Classifier – MobileNetV2-based image classifier with fine-tuning, GUI tested via Gradio & Tkinter.
 
-### DailyMoodAI – Multilingual Sentiment Chatbot
-
-• Flask/Gradio chatbot with OpenAI API & Hugging Face for multilingual sentiment analysis.
-• RouteLLM reduced cost by 30%, achieving 85%+ accuracy across 5 languages.
-
-### Product Image Classifier
-
-• Computer vision project using MobileNetV2 fine-tuning.
-• Includes model evaluation (confusion matrix), metrics, and GUI (Tkinter vs Gradio).
-
-### Sentiment Analysis Pipeline (Turkish Reviews)
-
-• End-to-end NLP pipeline for Turkish product reviews with TF-IDF + Logistic Regression.
-• Preprocessing, training, evaluation, and inference implemented from scratch.
 
 ---
 
-## 📜 Certificates
-• Machine Learning – *Miuul Academy* (2025)  
-• Feature Engineering – *Miuul Academy* (2025)  
-• Data Science & AI Engineering Mini Bootcamp – *Miuul Academy* (2025)  
-• Python – *Kaggle* (2025)  
+
+## 📫 Connect With Me
+
+📧 Email: esmanurerdis@gmail.com
+
+💻 GitHub: github.com/esmanurerdis
+
+🔗 LinkedIn: linkedin.com/in/esmanurerdis
 
 ---
 
