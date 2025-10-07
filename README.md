@@ -1,7 +1,7 @@
 ## Hi there 👋
 I am Esmanur Erdiş  
 
-#🎓 ** AI & Data Science ** | BSc in Mathematics and Computer Science
+# 🎓 ** AI & Data Science ** | BSc in Mathematics and Computer Science
 🌍 Based in Eskişehir, Turkey  
 
 ---
