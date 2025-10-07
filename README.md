@@ -1,8 +1,7 @@
-# 👋 Hi, I'm Esmanur Erdiş
-
-## 💻 AI & Data Science | NLP & Machine Learning | 🎓 BSc in Mathematics and Computer Science
-## 🚀 Turning data into intelligent, multilingual, and impactful AI solutions
-### 🌍 Based in Eskişehir, Turkey  
+#                                                                    👋 Hi, I'm Esmanur Erdiş
+##                                 💻 AI & Data Science | NLP & Machine Learning | 🎓 BSc in Mathematics and Computer Science
+##                                       🚀 Turning data into intelligent, multilingual, and impactful AI solutions
+###                                                              🌍 Based in Eskişehir, Turkey  
 
 ---
 
@@ -11,7 +10,10 @@
 - I focus on developing AI models that analyze language, predict outcomes, and automate processes — combining strong analytical thinking with hands-on technical execution.
 - I enjoy exploring new AI technologies, from large language models to time-series forecasting and computer vision.
 
+
 ---
+
+
 
 
 ## 🔍 Focus Areas
