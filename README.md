@@ -1,7 +1,7 @@
-#                                                                    👋 Hi, I'm Esmanur Erdiş
-##                                 💻 AI & Data Science | NLP & Machine Learning | 🎓 BSc in Mathematics and Computer Science
-##                                       🚀 Turning data into intelligent, multilingual, and impactful AI solutions
-###                                                              🌍 Based in Eskişehir, Turkey  
+# 👋 Hi, I'm Esmanur Erdiş
+## 💻 AI & Data Science | NLP & Machine Learning | 🎓 BSc in Mathematics and Computer Science
+## 🚀 Turning data into intelligent, multilingual, and impactful AI solutions
+###   🌍 Based in Eskişehir, Turkey  
 
 ---
 
@@ -24,7 +24,7 @@
 
 - LLM Applications (Prompt Engineering, Fine-tuning, Cost Optimization, RAG – learning)
 
--Data Visualization & Storytelling
+- Data Visualization & Storytelling
 
 
 ---
