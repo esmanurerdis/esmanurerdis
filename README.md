@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Esmanur Erdiş
 
-# 💻 AI & Data Science | NLP & Machine Learning | 🎓 BSc in Mathematics and Computer Science
-# 🚀 Turning data into intelligent, multilingual, and impactful AI solutions
-# 🌍 Based in Eskişehir, Turkey  
+## 💻 AI & Data Science | NLP & Machine Learning | 🎓 BSc in Mathematics and Computer Science
+## 🚀 Turning data into intelligent, multilingual, and impactful AI solutions
+## 🌍 Based in Eskişehir, Turkey  
 
 ---
 
