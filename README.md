@@ -29,13 +29,14 @@
 
 
 ## 🛠️ Skills
-• Programming & Data: Python 🐍 | SQL (PostgreSQL, MySQL) | NumPy | Pandas
-• Machine Learning: scikit-learn | XGBoost | Regression & Classification | Feature Engineering | Model Evaluation (K-Fold, GridSearchCV)
-• Deep Learning & NLP: Hugging Face 🤗 | Transformers | OpenAI API | RouteLLM | Sentiment Analysis | Text Classification | BLEU/ROUGE
-• Visualization & Tools: Matplotlib | Seaborn | Plotly | Tkinter | Gradio
-• Other: Git/GitHub | Docker 🐳 (containerization basics) | Airflow (workflow automation)
-• Mathematics: Linear Algebra | Probability | Statistics | Calculus | Optimization
-• Languages: Turkish (Native) | English (Professional) | Chinese (Intermediate)
+
+- Programming & Data: Python 🐍 | SQL (PostgreSQL, MySQL) | NumPy | Pandas
+- Machine Learning: scikit-learn | XGBoost | Regression & Classification | Feature Engineering | Model Evaluation (K-Fold, GridSearchCV)
+- Deep Learning & NLP: Hugging Face 🤗 | Transformers | OpenAI API | RouteLLM | Sentiment Analysis | Text Classification | BLEU/ROUGE
+- Visualization & Tools: Matplotlib | Seaborn | Plotly | Tkinter | Gradio
+- Other: Git/GitHub | Docker 🐳 (containerization basics) | Airflow (workflow automation)
+- Mathematics: Linear Algebra | Probability | Statistics | Calculus | Optimization
+- Languages: Turkish (Native) | English (Professional) | Chinese (Intermediate)
 
 
 ---
