@@ -7,7 +7,7 @@
 
 ## 🧠 About Me
 - I'm passionate about building intelligent systems using Machine Learning, NLP, and Data Analysis.
-- I focus on developing AI models that analyze language, predict outcomes, and automate processes — combining strong analytical thinking with hands-on technical execution.
+- Recent Mathematics & Computer Science graduate building practical ML solutions. Focused on Time Series Forecasting,NLP, Data Analytics, and production-ready code.
 - I enjoy exploring new AI technologies, from large language models to time-series forecasting and computer vision.
 
 
